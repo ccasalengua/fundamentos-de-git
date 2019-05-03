@@ -1,1 +1,2 @@
 Text1 - file1.
+text 2 to merge.
